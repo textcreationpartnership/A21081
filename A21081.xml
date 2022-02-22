@@ -1,0 +1,1527 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ease for overseers of the poore abstracted from the statutes, allowed by practise, and now reduced into forme, as a necessarie directorie for imploying, releeuing, and ordering of the poore. With an easie and readie table for recording the number, names, ages, exercises and defects of the poore, fit to be obserued of the ouerseers in euery parish. Also hereunto is annexed a prospect for rich men to induce them to giue, and a patterne for poore men to prouoke them to labour, very pertinent to the matter. The principall heads hereof appeare in the next page.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1601</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 86 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21081</idno>
+            <idno type="STC">STC 7446</idno>
+            <idno type="STC">ESTC S113911</idno>
+            <idno type="EEBO-CITATION">99849139</idno>
+            <idno type="PROQUEST">99849139</idno>
+            <idno type="VID">14275</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14275)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 781:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ease for overseers of the poore abstracted from the statutes, allowed by practise, and now reduced into forme, as a necessarie directorie for imploying, releeuing, and ordering of the poore. With an easie and readie table for recording the number, names, ages, exercises and defects of the poore, fit to be obserued of the ouerseers in euery parish. Also hereunto is annexed a prospect for rich men to induce them to giue, and a patterne for poore men to prouoke them to labour, very pertinent to the matter. The principall heads hereof appeare in the next page.</title>
+               </titleStmt>
+               <extent>38 p., [2] folded leaves   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Legat, printer to the Vniuersitie of Cambridge,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1601.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>See also STC 9494.9--STC.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Poor laws --  Great Britain --  Early works to 1800.</term>
+               <term>Public welfare --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14275:1" rendition="simple:additions"/>
+            <pb facs="tcp:14275:1"/>
+            <p>AN EASE FOR OVERSEERS of the poore: ABSTRACTED FROM THE STATVTES, allowed by practiſe, and now reduced into Forme, as a neceſſarie Directorie for Imploying, Releeuing, and ordering of the poore. With an eaſie and readie Table for recor<g ref="char:EOLhyphen"/>ding the number, names, ages, exerciſes and defects of the poore, fit to be obſerued of the <hi>Ouerſeers</hi> in euery pariſh. Alſo hereunto is annexed a <hi>proſpect</hi> for rich men to induce them to giue, and a <hi>patterne</hi> for poore men to prouoke them to labour, very pertinent to the matter. The principall heads hereof appeare in the next page.</p>
+            <q>
+               <bibl>Rom. 12. 7.</bibl>
+               <p>If we haue an office let vs waite on the office.</p>
+            </q>
+            <p>PRINTED BY IOHN LEGAT, PRINTER to the Vniuerſitie of Cambridge. 1601.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:14275:2"/>
+            <pb n="3" facs="tcp:14275:2"/>
+            <head>The Inſcriptions or ti<g ref="char:EOLhyphen"/>tles of the principall heads handled in this Booke.</head>
+            <list>
+               <item>A table for a readie vew of the poore.</item>
+               <item>1 Of the word Ouerſeer.</item>
+               <item>2 What an Ouerſeer is.</item>
+               <item>3 The diuerſitie of ouerſeers.</item>
+               <item>4 What perſons be fit to be made o<g ref="char:EOLhyphen"/>uerſeers.</item>
+               <item>5 How to diſcerne ſuch men as be vn<g ref="char:EOLhyphen"/>meete to be ouerſeers.</item>
+               <item>6 What Ouerſeers ſhould conſider beeing called to office.</item>
+               <item>7 The office of ouerſeers.</item>
+               <item>8 Who be liable to taxations.</item>
+               <item>9 The cauſe of taxations.</item>
+               <item>10 What ſtocke will ſerue to ſet the poore on worke.</item>
+               <item>11 What poore muſt be ſet to worke of the ſtocke.</item>
+               <pb n="4" facs="tcp:14275:3"/>
+               <item>12 The place where they are to be ſet on worke.</item>
+               <item>13 What workes are fit to be done by the poore.</item>
+               <item>14 How their workes may be profi<g ref="char:EOLhyphen"/>table.</item>
+               <item>15 What poore are to be releeued with money.</item>
+               <item>16 A deſcription of poore by their defects.</item>
+               <item>17 The ſignification of the word Im<g ref="char:EOLhyphen"/>potent.</item>
+               <item>18 What children are to be put Ap<g ref="char:EOLhyphen"/>prentices.</item>
+               <item>19 Obſeruations for Ouerſeers.</item>
+               <item>20 A proſpect for rich men to induce them to giue to the poore.</item>
+               <item>21 A patterne for poore men to pro<g ref="char:EOLhyphen"/>uoke them to labour for their li<g ref="char:EOLhyphen"/>uing.</item>
+            </list>
+         </div>
+         <div type="table">
+            <pb facs="tcp:14275:3"/>
+            <head>A note of ſuch poore as be charge<g ref="char:EOLhyphen"/>able and burdenous in the pariſh of Wo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Countie of Suffolke.</head>
+            <p>
+               <table>
+                  <head>A readie forme for a ſpeedie inſpection of the poore.</head>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">7</cell>
+                     <cell role="label">8</cell>
+                     <cell role="label">9</cell>
+                     <cell role="label">10</cell>
+                     <cell role="label">11</cell>
+                     <cell role="label">12</cell>
+                  </row>
+                  <row>
+                     <cell role="label">Wardes</cell>
+                     <cell role="label">Names and Families.</cell>
+                     <cell role="label">yeares</cell>
+                     <cell role="label">Defects</cell>
+                     <cell role="label">vſuall workes</cell>
+                     <cell role="label">weekely gettings</cell>
+                     <cell role="label">of whom they haue worke.</cell>
+                     <cell role="label">who want worke</cell>
+                     <cell role="label">Such as be fit for Appren<g ref="char:EOLhyphen"/>tices and ſer<g ref="char:EOLhyphen"/>uice.</cell>
+                     <cell role="label">Such as keepe or<g ref="char:EOLhyphen"/>phans and others</cell>
+                     <cell role="label">weekely allow<g ref="char:EOLhyphen"/>ance.</cell>
+                     <cell role="label">Beggers li<g ref="char:EOLhyphen"/>cenſed in the pariſh.</cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Eaſt</cell>
+                     <cell>Father Got</cell>
+                     <cell>71</cell>
+                     <cell>palſie</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="4"> </cell>
+                     <cell rows="4">Iohn Gott.</cell>
+                     <cell rows="4"> </cell>
+                     <cell rows="4">x. d.</cell>
+                     <cell rows="4">Rich. Got.</cell>
+                  </row>
+                  <row>
+                     <cell>his wife</cell>
+                     <cell>69</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Ioane</cell>
+                     <cell>19</cell>
+                     <cell> </cell>
+                     <cell>knitte</cell>
+                     <cell>viii. d.</cell>
+                     <cell>W. True.</cell>
+                  </row>
+                  <row>
+                     <cell>Richard</cell>
+                     <cell>15</cell>
+                     <cell>ideot</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="4">Weſt</cell>
+                     <cell>mother Ter</cell>
+                     <cell>67</cell>
+                     <cell>lame</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="4"> </cell>
+                     <cell rows="4">Alice Terre.</cell>
+                     <cell rows="4">mother Terre kee<g ref="char:EOLhyphen"/>peth
+<list>
+                           <item>W. Ren.</item>
+                           <item>Io. Ren.</item>
+                        </list> baſe.</cell>
+                     <cell rows="4">ii. s.</cell>
+                     <cell rows="4"> </cell>
+                  </row>
+                  <row>
+                     <cell>Marie</cell>
+                     <cell>20</cell>
+                     <cell> </cell>
+                     <cell>ſpinne</cell>
+                     <cell>x. d.</cell>
+                     <cell>Iohn Mart.</cell>
+                  </row>
+                  <row>
+                     <cell>Iohn</cell>
+                     <cell>15</cell>
+                     <cell>deafe</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Alice</cell>
+                     <cell>9</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="5">North</cell>
+                     <cell>Widow Fit</cell>
+                     <cell>51</cell>
+                     <cell>diſeaſed</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell rows="5">R. Fitt.<lb/>H. Fitt.</cell>
+                     <cell rows="5">Richard Fitt.</cell>
+                     <cell rows="5"> </cell>
+                     <cell rows="5">viii. d.</cell>
+                     <cell rows="5">Iohn Fit.</cell>
+                  </row>
+                  <row>
+                     <cell>William</cell>
+                     <cell>16</cell>
+                     <cell> </cell>
+                     <cell>weaueth</cell>
+                     <cell>xii. d.</cell>
+                     <cell>H. Till.</cell>
+                  </row>
+                  <row>
+                     <cell>Richard</cell>
+                     <cell>1<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Iohn</cell>
+                     <cell>8</cell>
+                     <cell>dumme</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Henrie</cell>
+                     <cell>6</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell rows="7">South</cell>
+                     <cell>Thomas Fig</cell>
+                     <cell>43</cell>
+                     <cell> </cell>
+                     <cell>labourer</cell>
+                     <cell>ii. s.</cell>
+                     <cell>of diuers men.</cell>
+                     <cell rows="7">Raph Fig.</cell>
+                     <cell rows="7">Raph Fig.</cell>
+                     <cell rows="7">Thomas Figge keepeth
+<list>
+                           <item>Ro. Segge.</item>
+                           <item>Th. Rere.</item>
+                           <item>Hen. Tod.</item>
+                        </list> orphans.</cell>
+                     <cell rows="7">iii. s.</cell>
+                     <cell rows="7">Roſe Fig.</cell>
+                  </row>
+                  <row>
+                     <cell>Suſan</cell>
+                     <cell>34</cell>
+                     <cell>bedred</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Raph</cell>
+                     <cell>14</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Leonard</cell>
+                     <cell>9</cell>
+                     <cell>blinde</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Roſe</cell>
+                     <cell>5</cell>
+                     <cell>lame</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Henrie</cell>
+                     <cell>3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Thomas</cell>
+                     <cell>2</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>perſons 20.</cell>
+                     <cell> </cell>
+                     <cell>diſeaſed 9</cell>
+                     <cell>workers 4</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>idle 3</cell>
+                     <cell>Apprentices. 4</cell>
+                     <cell>orphans and other 5</cell>
+                     <cell>Allow. 6. s. 6. d.</cell>
+                     <cell>Beggers. 3</cell>
+                  </row>
+                  <trailer>This Table may be extracted to a greater or leſſer number according to the multiplicitie of the poore.</trailer>
+               </table>
+            </p>
+            <p>In diſtribution of this money <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir muſt be <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſpect of the
+<list>
+                  <item>perſons</item>
+                  <item>ſeaſons</item>
+               </list> by their
+<list>
+                  <item>Impediments
+<list>
+                        <item>That they may haue a proportionall allowance according to the continuance and meaſure of their maladies and miſeries.</item>
+                     </list>
+                  </item>
+                  <item>Temperature
+<list>
+                        <item>That ſomewhat be reteined and reſerued in ſommer, that their re<g ref="char:EOLhyphen"/>leefe may be more liberall in winter.</item>
+                     </list>
+                  </item>
+               </list>
+            </p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:14275:4"/>
+            <pb n="5" facs="tcp:14275:4"/>
+            <head>To all Ouerſeers: the Author wiſheth Care to their office, health to their bodies, and Heauen to their <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oules.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>Lexander</hi> that magnanimious and mightie Mo<g ref="char:EOLhyphen"/>narch, in his martiall affaires would admit confe<g ref="char:EOLhyphen"/>rence with his meaneſt followes: holding it for a principle of experience, that as many threddes are ſtronger then one by co<g ref="char:cmbAbbrStroke">̄</g>bination, ſo many heads are better then one in conſultation.</p>
+            <p>By which preſident we may learne in buſineſſe tending to a common benefit, not to reiect or pretermit the iudgement of any well affected writer: for as the Philiſtim was ſlaine by Dauid whome Saul thought a man diſable to doe it, ſo a worke of ſome worth may be performed by him, whome the world deeme very weake to accompliſh it.</p>
+            <p>In caſes of Common-wealth euery one muſt be readie to extract his talent to the beſt, as the Iewes did ſtretch their eſtates to fortifie the rui<g ref="char:EOLhyphen"/>nous walls of Ieruſalem at the worſt; and he which doth his beſt is not to be blamed for his forwardnes, no more then the ſouldiour in the field which giues the firſt on ſet to fight.</p>
+            <p>He that is moſt skilfull in Architecture doth finde more trouble in contriuing the frame, then in finiſhing the worke: and ſo it is with the beſt Artiſt, the forme of inuention is more buſie then the action it ſelfe: and therefore ſeeing I haue framed an eaſie platforme to begin a good worke, I muſt leaue the finiſhing, to them which are better able to build it. For this worke is brought to beſt perfection by protraction of time: becauſe practiſe and experience doe alwaies adde ſomewhat to the A<g ref="char:EOLhyphen"/>ction.</p>
+            <p>Excellent is that law which is laſt prouided for the poore, but yet as gold be it neuer ſo pretious is vnprofitable without vſe, ſo Laws be they neuer ſo laudable want life without execution: therefore ſuch as be <hi>O<g ref="char:EOLhyphen"/>uerſees</hi> for the poore muſt conſider that the letter the lawes be, which
+<pb n="6" facs="tcp:14275:5"/> are prouided for the poore, the more they are condemned that neglect the looking to the poore: and the greater glorie a Prince getteth by en<g ref="char:EOLhyphen"/>acting good lawes, the greater ſhame the ſubiects reape by diſobeying the lawes.</p>
+            <p>I haue ſet forth this Treatiſe, not for ambition, as Nimrod did the tower of Babel to get a name, nor for vaine glorie, as Abſalom did a pillar to preſerue his name (for that cauſe I forbeare my name:) but of meere affection to my natiue countrie to further it.</p>
+            <p>If there be any thing omitted, amend it: if there be ſomething worth the following, vſe it: if it be a little defectiue, excuſe it: for Argus could neuer ſee all, nor Chriſt himſelfe content all.</p>
+         </div>
+         <div type="abstract">
+            <pb facs="tcp:14275:5"/>
+            <pb facs="tcp:14275:6"/>
+            <head>An Abſtract of ſo much as concerneth Ouerſeers in this Treatiſe.</head>
+            <p>In this table is ſummarily contained
+<list>
+                  <item>I. The Diuiſion
+<list>
+                        <item>1. of the word <hi>Ouerſeer</hi> which doth illuſtrate and ſet forth the
+<list>
+                              <item>Antiquitie</item>
+                              <item>Excellencie</item>
+                           </list> of the Title whether it be taken
+<list>
+                              <item>Simply.</item>
+                              <item>Compoſitiuely.</item>
+                           </list>
+                        </item>
+                        <item>2. of the kindes of <hi>Ouerſeers</hi>
+                           <list>
+                              <item>Paſtoral
+<list>
+                                    <item>to be Apoſtles, Preachers, &amp;c.</item>
+                                 </list>
+                              </item>
+                              <item>Mechanical
+<list>
+                                    <item>to be Architects, &amp;c.</item>
+                                 </list>
+                              </item>
+                              <item>Teſtamental
+<list>
+                                    <item>to be Superuiſors of wills.</item>
+                                 </list>
+                              </item>
+                              <item>Political
+<list>
+                                    <item>to be Gouernours of the poore.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>II. What an <hi>Ouerſeer</hi> is
+<list>
+                        <item>1. by Deſcription
+<list>
+                              <item>of his Office, to haue charge ouer the poore as the ſhepheard ouer his ſhee<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. by Execution
+<list>
+                              <item>of his Actions
+<list>
+                                    <item>to imploy by worke</item>
+                                    <item>to releeue by money</item>
+                                    <item>to order by diſcretion</item>
+                                 </list> the defects of the poore.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>III. The men
+<list>
+                        <item>1. fit to be made Ouerſeers by the gifts of
+<list>
+                              <item>Fortune
+<list>
+                                    <item>as wealth.</item>
+                                 </list>
+                              </item>
+                              <item>Nature
+<list>
+                                    <item>as wit.</item>
+                                 </list>
+                              </item>
+                              <item>Grace
+<list>
+                                    <item>as a good Conſcience.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. vnfit to be made Ouerſeers by their
+<list>
+                              <item>Diſpoſitions
+<list>
+                                    <item>which will appeare by their froward ſpeeche<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                          <desc>•…</desc>
+                                       </gap>
+                                    </item>
+                                 </list>
+                              </item>
+                              <item>Dealings
+<list>
+                                    <item>which will appeare by their dilatiue paymen<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                          <desc>•…</desc>
+                                       </gap>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>IV. What Ouerſeers ſhould con<g ref="char:EOLhyphen"/>ſider when they are choſen.
+<list>
+                        <item>1. the Author
+<list>
+                              <item>which is God, that they ouerſee others, as he ouerſeeth all.</item>
+                           </list>
+                        </item>
+                        <item>2. the Office
+<list>
+                              <item>which is Good, that they ſhroud not malice, &amp;c. vnder it.</item>
+                           </list>
+                        </item>
+                        <item>3. the Rule of Charitie, to doe as they would be done to.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <g ref="char:V">Ʋ</g>. The Office of Ouerſeers.</item>
+                  <item>VI. The perſons
+<list>
+                        <item>Temporall
+<list>
+                              <item>liable to Taxations by Statute.</item>
+                           </list>
+                        </item>
+                        <item>Spirituall
+<list>
+                              <item>liable to Taxations by Proclamation.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>
+                     <g ref="char:V">Ʋ</g>II. The Cauſe of Taxations, which ſerue for three ſingular vſes
+<list>
+                        <item>1. for a Stocke to ſet the poore on worke.</item>
+                        <item>2. for a Releefe of the aged and impotent, &amp;c.</item>
+                        <item>3. for the putting forth of Apprentices.</item>
+                     </list>
+                  </item>
+                  <item>
+                     <g ref="char:V">Ʋ</g>III. The order
+<list>
+                        <item>1. of Rayſing of a Stocke in reſpect of
+<list>
+                              <item>the Subſtance and quantitie which is to be modera<g ref="char:EOLhyphen"/>ted according to the
+<list>
+                                    <item>multiplicitie of the poore.</item>
+                                    <item>abilitie of the parriſh.</item>
+                                    <item>place of habitation.</item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>2. of vſing of a Stocke in reſpect of
+<list>
+                              <item>Circumſtance and qualitie
+<list>
+                                    <item>1. of the perſons: who are to be ſet on worke.</item>
+                                    <item>2. of the place</item>
+                                    <item>3. of the workes</item>
+                                 </list> to be agree<g ref="char:EOLhyphen"/>able to the
+<list>
+                                    <item>diſpoſitions</item>
+                                    <item>educations</item>
+                                    <item>conſtitutions</item>
+                                 </list> of the po<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                                    <desc>•…</desc>
+                                 </gap>
+                              </item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>IX. The Releeuing of the poore with money: who are deſcribed
+<list>
+                        <item>Specially
+<list>
+                              <item>by the Defects
+<list>
+                                    <item>of Nature
+<list>
+                                          <item>as olde.</item>
+                                       </list>
+                                    </item>
+                                    <item>of Senſes
+<list>
+                                          <item>as blinde.</item>
+                                       </list>
+                                    </item>
+                                    <item>of Members
+<list>
+                                          <item>as lame.</item>
+                                       </list>
+                                    </item>
+                                    <item>of the whole bodie.
+<list>
+                                          <item>as not able to worke.</item>
+                                       </list>
+                                    </item>
+                                 </list>
+                              </item>
+                           </list>
+                        </item>
+                        <item>Generally
+<list>
+                              <item>by the word Impotent: by reaſon of
+<list>
+                                    <item>decrepitie.</item>
+                                    <item>infancie.</item>
+                                    <item>natiuitie.</item>
+                                    <item>caſualtie.</item>
+                                 </list> &amp;c.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </item>
+                  <item>X. A Table to contriue whatſoeuer is neceſſarie for recording of the number, names, and neceſſities of the poore.</item>
+               </list>
+            </p>
+            <p>I haue imployed my time to publiſh it, beſtow your paines to peruſe it, and practiſe it ſo farre as it is tollerable with the Law, profitable for the place, and imitable in your diſcretions.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="7" facs="tcp:14275:6"/>
+            <head>AN EASE FOR OVER<g ref="char:EOLhyphen"/>SEERS.</head>
+            <div type="section">
+               <head>Of the word Ouerſeer.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>Vr firſt parent was called Adam, that his name deriued from the earth might ſigni<g ref="char:EOLhyphen"/>fie his diſſoluble nature; Caine was called a tiller of the ground that his additio<g ref="char:cmbAbbrStroke">̄</g> might bewray his education and facultie; ſo men are called Ouerſeers, that their titles might illuſtrate and diſtinguiſh their offices, which titles being aptly attributed and ex<g ref="char:EOLhyphen"/>tracted from the eſſence of the office are ſingular arguments of wiſdome, as it was in Adam to giue proper names to euery creature to manifeſt their diſpoſitions.</p>
+               <p>The word Ouerſeer by deuiſion may be taken
+<list>
+                     <item>Simply.</item>
+                     <item>Compoſitiuely.</item>
+                  </list>
+               </p>
+               <p>Simply it is called Seer (as a ſpeciall title of inſpiration) and as a<g ref="char:EOLhyphen"/>mong the heathens the Philoſophers were deemed the wiſeſt men in their daies, ſo among the Iſraelites a Seer was reputed an ho<g ref="char:EOLhyphen"/>nourable perſon in the olde time, and was called a man of God: becauſe by diuine inſpiration he had foreſight and pre-ſcience of future things: hereof the prophets were afterward called Seers. 1. Sam. 9. 9.</p>
+               <p>Compoſitiuely it is called Ouerſeer) as a title of diſtinction of offices) and ſuch were ſo expreſly called which were imployed a<g ref="char:EOLhyphen"/>bout the building of the Materiall and Spirituall Temple.</p>
+               <p>When the materiall Temple of Salomon was erecting, there
+<pb n="8" facs="tcp:14275:7"/> was ſixe thouſand Ouerſeers and Iudges, which were officers ap<g ref="char:EOLhyphen"/>pointed to ſee the building of it. 1. Chro. 23. 4.</p>
+               <p>Thoſe that labour for the building vp of the Spirituall temple, are by the holy Ghoſt phraſed to be Ouerſeers. Act. 20. 28.</p>
+               <p>So that howe ſoeuer the word be taken, it may appeare that an Ouerſeer is not a title of noualtie, but antiquitie, of indignitie, but excellencie: and it is an office that may beſeeme the beſt, and not not the baſeſt men.</p>
+            </div>
+            <div type="section">
+               <head>What an Ouerſeer is.</head>
+               <p>AN Ouerſeer by the very etymologie of the word is one pla<g ref="char:EOLhyphen"/>ced or ſet ouer others to ſee vnto them, as the ſonne of Adiel was ſet ouer Salomons treaſure to ſee vnto it.</p>
+               <p>He is rightly called an Ouerſeer by the naturall and eſſentiall ſignification of the word: which ſeeth what is to be done, foreſee<g ref="char:EOLhyphen"/>eth howe it may be done, and ouerſeeth that it be well done.</p>
+               <p>There be di<g ref="char:EOLhyphen"/>uers ſorts of Ouerſeers:
+<list>
+                     <item>Paſtorall.
+<list>
+                           <item>as Apoſtles and preachers.</item>
+                        </list>
+                     </item>
+                     <item>Mechanicall.
+<list>
+                           <item>as Architects, &amp;c.</item>
+                        </list>
+                     </item>
+                     <item>Teſtamental.
+<list>
+                           <item>as Superuiſors of wills.</item>
+                        </list>
+                     </item>
+                     <item>Politicall.
+<list>
+                           <item>as Gouernours of the poore.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The title is impoſed according to the proprietie of the office, and the perſons are dignified according to the ſingularitie of the ſubiect.</p>
+               <p>An Ouerſeer of the poore is he which hath the charge of im<g ref="char:EOLhyphen"/>ploying by worke, releeuing by money, and ordering by diſcre<g ref="char:EOLhyphen"/>tion, the defects of the poore; and this is not the leaſt office, to be adorned with the title of Ouerſeer of the poore: for as God him<g ref="char:EOLhyphen"/>ſelfe hath a ſpeciall reſpect to the miſeries of the poore, ſo they be like God, which prouide for the neceſſities of the poore, as the Sa<g ref="char:EOLhyphen"/>maritane was like Chriſt, becauſe he releeued him that was wou<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ded and diſtreſſed.</p>
+               <p>If he which was both God and man did not thinke much to become poore for our ſakes, let vs not diſdaine to Ouerſee the poore for his ſake.</p>
+            </div>
+            <div type="section">
+               <pb n="9" facs="tcp:14275:7"/>
+               <head>What perſons be fitte to be made Ouerſeers of the poore.</head>
+               <p>IN the primitiue Church ſuch as had the dealings for the poore, were called Deacons, and thoſe which were called to that office, are ſet forth in the Acts 2. waies
+<list>
+                     <item>1. by their names
+<list>
+                           <item>to be men of honeſt report.</item>
+                        </list>
+                     </item>
+                     <item>2. by their vertues
+<list>
+                           <item>to be men full
+<list>
+                                 <item>of the holy Ghoſt.</item>
+                                 <item>of wiſdome.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The office beeing ſo excellent, the perſons cannot be too good to vndergoe it.</p>
+               <p>The Statute appointeth ouerſeers for the poore to be Subſedie <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>en, or for want of ſuch ſubſtantiall men, which word as I con<g ref="char:EOLhyphen"/>ceiue may be thus taken:</p>
+               <p>A ſubſtantiall perſon is he which hath
+<list>
+                     <item>Competencie
+<list>
+                           <item>of wealth.</item>
+                           <item>of wiſdome.</item>
+                        </list>
+                     </item>
+                     <item>Care of a good conſcienc.</item>
+                  </list>
+               </p>
+               <p>Competencie of wealth in an Ouerſeer is very requiſite by rea<g ref="char:EOLhyphen"/>ſons drawen from wealth and want.</p>
+               <p n="1">I. The very ornament of wealth doth adde a kinde of grace &amp; maieſtie to a man, although he be deſtitute of the cheife habit of a man, whereas pouertie makes a man diſpiſeable, which by his pro<g ref="char:EOLhyphen"/>perties is commendable.</p>
+               <p n="2">II. The ſufficiencie of wealth will cauſe circumſpection in the officer: for he that hath no inward remorſe to make conſcience of his office, the penaltie of the lawe will conſtraine him to an out<g ref="char:EOLhyphen"/>ward carefulneſſe; becauſe he hath ſomewhat to looſe.</p>
+               <p n="3">III. The execution of the office requireth diligence, therefore he th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t is wealthie may the better neglect his owne affaires to at<g ref="char:EOLhyphen"/>tend of his office, but the poore cannot ſo conueniently forbeare their buſineſſe, vnleſſe they neglect their own familie, and ſo co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ſequently incurre the Apoſtles reprehenſion.</p>
+               <p n="4">IV. If he be poore he will not be reſpected: for commonly the poore deſpiſe him that is poore, if he be ſet in office ouer the<g ref="char:cmbAbbrStroke">̄</g>, and will not let to ſaie in deriſion as Ioſephs brethren ſaid of him, <hi>Shal<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> thou raigne ouer vs.</hi>
+               </p>
+               <pb n="10" facs="tcp:14275:8"/>
+               <p n="5">5 If he be poore, it is to be ſuſpected he will abuſe his office for benefit ſake, though he bereaue it from the poore, like Iudas, who repined for the loſſe of oyntment, not ſo much for the good of the poore, as for the gaine of the money: becauſe he kept the bagge and was but poore.</p>
+               <p n="6">6 If he be poore he hath no countenance to controll: for where a mans wealth is not anſwerable to his heart, nor his eſtate ſutable to his calling, it doth but diſcourage him in the execution of his office.</p>
+               <p>Albeit wealth and riches be pretious of themſelues, yet if the poſſeſſour wants wit to vſe them, he is no better then the Indian earth that breedes the bullion of gold, or the aſſe that beares the burthen of it, and yet neither take benefit by it: therfore to wealth muſt be vnited wiſdome, which although it be of it ſelfe ſingular, yet as pearle ſet in gold makes it more beautifull to the eye, ſo wiſ<g ref="char:EOLhyphen"/>dome varniſht with wealth, makes a man more eſtimable to the world.</p>
+               <p>
+                  <hi>Competencie of wiſdome</hi> is neceſſarie in an Ouerſeer for theſe three reſpects,
+<list>
+                     <item>of the Lawes.</item>
+                     <item>of the office.</item>
+                     <item>of the perſon.</item>
+                  </list>
+               </p>
+               <p n="1">1 <hi>Of the Lawes:</hi> for as lawes are enacted by wiſdom, ſo ſhould officers be elected for wiſdome, leaſt the benefit of the law be a<g ref="char:EOLhyphen"/>buſed through the ignorance of the executioners.</p>
+               <p n="2">2 <hi>Of the office:</hi> if it be an honourable office to be an Ouerſeer, why ſhould the dignitie of the office be impaired by the inſuffici<g ref="char:EOLhyphen"/>cie of the perſon.</p>
+               <p n="3">3 <hi>Of the perſon,</hi> as he is reputed
+<list>
+                     <item>Fooliſh.</item>
+                     <item>Diſcrete.</item>
+                  </list>
+               </p>
+               <p>If he be <hi>fooliſh</hi> he ſhall be skorned, and who will commit the managing of ſerious matters to a foole, neither is he fit to be made Gouernour ouer others, which wants diſcretion to gouerne him<g ref="char:EOLhyphen"/>ſelfe.</p>
+               <p>If he be <hi>diſcrete</hi> he ſhall be feared and regarded for his wiſdom, as Pharao was feared for his crueltie, Dauid for his ſanctitie, Sam<g ref="char:EOLhyphen"/>ſon for his ſtrength, ſo was Salomon feared for his wiſdome.</p>
+               <p>As wealth and wiſdome are excellent gifts, yet to make a com<g ref="char:EOLhyphen"/>petent Ouerſeer muſt be conioyned the <hi>Care of a good conſcience.</hi>
+                  <pb n="11" facs="tcp:14275:8"/> as the beſt agenr in this office: for there be many wealthie, yet da<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>nable as Diues was: there be many wiſe, yet wicked as Achitophel was: there be many ſtrict in their liues, yet hypocrites, as the Pha<g ref="char:EOLhyphen"/>riſes were, and there be many offenſiue in their perſons, and yet will not be defectiue in their office, as many of the Iewes were, but he which hath the cuſtodie of a good conſcience doth neuer miſcarrie: for it confirmeth all where it is vſed, and confoundeth all where it is wanting.</p>
+               <p>
+                  <hi>Care of good conſcience,</hi> is neceſſarie in regard of
+<list>
+                     <item>God.</item>
+                     <item>Men.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Of God:</hi> for riches, learning, honour, life, and ſuch like are in<g ref="char:EOLhyphen"/>different to Pagans and prophane perſons as well as other: but a good Conſcience is incident to a few that feare God: therefore a good Conſcience ſeaſoned with grace is better accepted of God, then all the wiſdome, worſhip, and wealth in the world poſſeſſed with a ſeared conſcience.</p>
+               <p>
+                  <hi>Of men:</hi> which will appeare by the
+<list>
+                     <item>Fruition</item>
+                     <item>Defection</item>
+                  </list> of a good Conſcience.</p>
+               <p>
+                  <hi>The fruition</hi> of a good Conſcience, though it be cloſe will be diſcouered by a mans dealings, as muske in the boſome will be be<g ref="char:EOLhyphen"/>wraied by the ſauour: ſuch an one will haue an eye into his office to performe it with all diligence, and what auailes good lawes if officers make no conſcience to execute them.</p>
+               <p>Where there is <hi>Defection</hi> of conſcience, there is confuſion of all order: ſuch an Ouerſeer will ouerſee all, but doe nothing at all: he will looke like a lyon, and dominere like a deuill ouer the poore.</p>
+               <p>Many ſeeke for offices of countenance, moſt ſue for offices of profit, but few will take an office that bringeth nothing but trou<g ref="char:EOLhyphen"/>ble, as the office of an Ouerſeer, &amp;c. which although it be a place of credit for the benefit of a common wealth, yet who for conſci<g ref="char:EOLhyphen"/>ence ſake would vndertake it vnleſſe it were impoſed vpon him by compulſion of law. And what is the reaſon there is ſo much corruption, negligence, and abuſe in officers, but onely the defect of a good conſcience.</p>
+            </div>
+            <div type="section">
+               <pb n="12" facs="tcp:14275:9"/>
+               <head>How to diſcerne ſuch men as be very vnmeete to be made Ouerſeers.</head>
+               <p>AS braſſe may be bewtified with gilding, ſo a bad man may be graced with glorious titles, as Pilate was a Iudge, and a Iewe, Haman a gouernour and a tyrant, Iudas an Apoſtle &amp; a traitour, ſo a man may be an Ouerſeer and an Atheiſt.</p>
+               <p>The Magiſtrates which haue the election and nomination of Ouerſeers ſhould haue a ſpeciall reſpect therein, that as Paul wil<g ref="char:EOLhyphen"/>led Timothy to chooſe ſuch widowes as were widowes indeede, ſo they ſhould appoint ſuch to be Ouerſeers as bee men indeede, and as Pharao chooſed Ioſeph to be Gouernour: becauſe he was the fitteſt in the land, ſo ſhould they chooſe ſuch men to be Ouer<g ref="char:EOLhyphen"/>ſeers which be fitteſt in the towne.</p>
+               <p>The indiſcrete and vnfit choiſe of many men which be made officers, is one cheife cauſe to diminiſh the dignitie of offices, ther<g ref="char:EOLhyphen"/>fore as Iethro willed Moſes in chooſing of offices to cull out me<g ref="char:cmbAbbrStroke">̄</g> by their conditions, ſo ſhould magiſtrates in making ouerſeers find out men by their diſpoſitions, and ſet a marke vpon their names for a note of diſtinction, as the ſhepheard ſetteth a brande on his ſheepe to knowe his from other ſheepe.</p>
+               <p>The Ouerſeer is an eie to the Magiſtrate in theſe actions, and therefore it were not amiſſe to take his information: for in that he makes collection of the money, he is beſt acquainted with the in<g ref="char:EOLhyphen"/>clination of the men, and if they be credible, charitable, and conſci<g ref="char:EOLhyphen"/>onable, it will appeare (as the bell by the ſound) by their willing ſpeeches and paiments: as for inſtance.</p>
+               <p n="1">I. There be ſome Contributors (be they neuer ſo reaſonably rated) will complaine of their taxing, giue with ſuch grutching, and pay with ſuch delaying, that moſt of the time is taken vp with attendance about them.</p>
+               <p n="2">II. There be others which bewray their mindes by ſiniſter meanes; go to their houſes for money, they will abſent themſelues on purpoſe, aske them at Church, they will ſay they haue no mo<g ref="char:EOLhyphen"/>ney about them, bidde them bring it to Church, and they will ſay they forgot it: nay rather then faile they will not come at church.</p>
+               <p n="3">III. There be others that haue money at commaundement,
+<pb n="13" facs="tcp:14275:9"/> who will followe the lawe for euery trifle, frequent idle paſtimes to abuſe the time, conſort with ill company to corrupt their man<g ref="char:EOLhyphen"/>ners, exceede in apparell and diet beyond their degrees, but will not part with a pennie (vnleſſe it be compulſitiuely) to doe the poore good.</p>
+               <p>There be ſome haue leſſe kindneſſe to the poore, then Diues dogges had to Lazarus, they will ſcandalize and abuſe the ouerſe<g ref="char:EOLhyphen"/>ers with ſpeeches as (Shimei did Dauid) when they demaund mo<g ref="char:EOLhyphen"/>ney, and rather then faile outface them with a falſe oath to de<g ref="char:EOLhyphen"/>fraud the poore of their money.</p>
+               <p n="5">V. Their be others which are backward in all good actions, they will not yeelde a pennie for the preferment of the Word, or for the ſupplying of any good vſes, but will paie no more then the law will conſtraine them, alleadging like the Iewes, we haue a law and by our lawe we muſt liue.</p>
+               <p>Theſe and ſuch as theſe which are ſuch Arch-enemies to the poore, be not meete to be made ouerſeers for the poore: for they which pay with ſuch repining, and practiſe ſuch ſhifts of impietie, will but gripe and beguile the poore, if they be made gouernours ouer the poore.</p>
+            </div>
+            <div type="section">
+               <head>What Ouerſeers ſhould conſider when they are called to office.</head>
+               <p n="1">I. AS the hearts of kings are in the handes of God, ſo he ruleth the hearts of all, be their intents neuer ſo ſecret, therefore though ouerſeers be choſen by men, yet remember that he which ſearcheth the raines hath the greateſt ſtroke in it: and ſo diſcharge your office in the ſight of men, as God himſelfe hath the ouerſight of you: for he is called <hi>Pantoculus</hi> becauſe he ſeeth all things.</p>
+               <p n="2">II. You muſt ſequeſter all malice from the office, as you would purge groſſe humors from the head: for it is a common fault in theſe daies that men will reuenge their priuate diſpleaſures vnder colour of their office, when they cannot, or dare not do it in other lawfull courſes; as the lawe impoſeth nothing, or puniſheth any of malice, ſo ſhould the executioners of the law do, but if they ſhroud
+<pb n="14" facs="tcp:14275:10"/> their malice vnder it, it is not onely an abuſe to the office, but a ſin in ouerſeers to be tainted with malice: and therefore if Dauid was puniſhed for making away Vriah vnder coulour of office, &amp; the gouernours deuoured of Lyons for abuſing Daniel vnder colour of their office; let ſuch feare to be ſome way afflicted, that are ſo ill affected in their office.</p>
+               <p n="3">III. Such as be ouerſeers ſhould remember that they hold not their office by patent, but as tenants at will for a yeare, and as they ouerſee others, ſo they ſhall be ouerſeene themſelues. And therefore it is wiſdome ſo to demeane themſelues in their office, as they would be dealt with when they are out of office.</p>
+            </div>
+            <div type="section">
+               <head>The office of Ouerſeers.</head>
+               <p>THe office of an ouerſeer extendeth farre, but it conſiſteth ſpe<g ref="char:EOLhyphen"/>ciallly in taxing Contributions for the releife of the poore, &amp; in the diſcretiue diſpoſition and ordering thereof.</p>
+               <p>In taxing of Con<g ref="char:EOLhyphen"/>tributors conſidera<g ref="char:EOLhyphen"/>tion muſt be had
+<list>
+                     <item>To equalitie.</item>
+                     <item>To eſtates.</item>
+                     <item>To the time.</item>
+                  </list>
+               </p>
+               <p n="1">I. To <hi>Equalitie,</hi> for where things are not equall there is much iniurie; if ballances be not equall the waight cannot be iuſt, if oxen be not equally yoked they cannot draw well, if cockes be not e<g ref="char:EOLhyphen"/>qually matched they cannot fight well, and ſo if men be not equal<g ref="char:EOLhyphen"/>ly rated with their neighbours they cannot agree well: if the Co<g ref="char:EOLhyphen"/>rinths were admoniſhed to ſupply the neceſſitie of the Saints, that there might be ſome equallitie, why ſhould not Contributors be equalized according to their proportion, ſeeing it is for the poore.</p>
+               <p>It is a common ouerſight in this age, that in moſt caſes of im<g ref="char:EOLhyphen"/>poſitions, taxations, &amp;c. the ſquare of equalitie is diſſolued, and and men are charged as the dice chance, dewce-ace cannot, ſiſe-ſinke will not, but cater-tray beare all away: that is to ſay, the pore cannot, the rich will not, but the middle ſort muſt pay all. Paul told the Corinthians it was not fit that other men be eaſed and they grieued: ſo ſay I, it is not good that ſome ſhould be remitted, and
+<pb n="15" facs="tcp:14275:10"/> others racked: for as a burthen if it be equally borne by many ac<g ref="char:EOLhyphen"/>cording to their ſtrength and ſtature, ſeemeth light though it be heauie: ſo common charges (which many count a burthen though they be a benefit) if they be ſupported according to euery mans portion, though they ſeeme great they will not be grieuous.</p>
+               <p n="2">2 To Eſtates: which muſt be counterpoiſed
+<list>
+                     <item>by their portions.</item>
+                     <item>by their charge.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>By their portions:</hi> for many in theſe daies are abuſed by ſuppu<g ref="char:EOLhyphen"/>tations, eſtimations, affectations, or reports. If one be worth an hundred poundes, ſome will double it, many wil triple it, but moſt will report more then it is: hereupon men are drawne to greater charges then their abilitie will beare, and that is the next way to make poore to maintaine poore, or (as we ſay in our common pro<g ref="char:EOLhyphen"/>uer be) to robbe Peter to pay Paul.</p>
+               <p>
+                  <hi>By their charge:</hi> for the occupier can not ſet downe what he gaines by his ware, vnleſſe he defraieth his detriments and charges ſuſteined by it. The husbandman knowes not what commoditie he gets by his croppe, vntill he recounteth his charge of ending the corne: euen ſo Ouerſeers can not with equitie deſcend into mens eſtates, vnleſſe their reuenewes and retinew, their counte<g ref="char:EOLhyphen"/>nance and charge, their liuings and families be conferred toge<g ref="char:EOLhyphen"/>ther. As for example: If one valued at fiue hundreth pounds hath but his wife and himſelfe, and an other eſtimated at a thouſand poundes hath wife and many children, the firſt mans eſtate for wealth is better then the ſecond, reſpecting his portion by his charge, and by all reaſon is to be rated as much as the other.</p>
+               <p n="3">3. To the Time: for when things are plentifull and cheape, thoſe rates muſt diſcontinue which were taxed in deare and ex<g ref="char:EOLhyphen"/>treame times. Contributions are not giuen to make or multiplie poore, but to mitigate pouertie: and therefore as the law giues li<g ref="char:EOLhyphen"/>bertie to taxe men alwaies as occaſion requires: ſo it leaues a diſ<g ref="char:EOLhyphen"/>cretion, to abate ſomething as the time ſerueth.</p>
+            </div>
+            <div type="section">
+               <pb n="16" facs="tcp:14275:11"/>
+               <head>Who be liable to Taxations.</head>
+               <p>TAxations are to be raiſed vpon men
+<list>
+                     <item>Temporall.</item>
+                     <item>Spirituall.</item>
+                  </list>
+               </p>
+               <p>That is to ſay,</p>
+               <p>By ſtatute
+<list>
+                     <item>Euery inhabitant</item>
+                     <item>Euery occupier of lands</item>
+                  </list> in the pariſh are to be taxed.</p>
+               <p>By proclamation
+<list>
+                     <item>Parſons and vicars &amp;c. be bound to the releefe of the poore as well as others being inhabiting within the pariſh as an inhabitant.</item>
+                     <item>Euery one that hath tithes appropriate, cole<g ref="char:EOLhyphen"/>mines, or landes in manuell occupation, &amp;c. is chargeable, and ſo for ſuch as haue ſaleable woods proportioning the ſame to an annuall benefit.</item>
+                  </list>
+               </p>
+               <p>If God had made all rich one would not care for another, if all poore, one could not helpe another: therefore rich and poore haue neede one of another: and as the prieſts, and Leuites, &amp; Lay<g ref="char:EOLhyphen"/>men, conioyned to fortifie the decaied walls of Ieruſalem without compulſion, ſo men of all degrees muſt combine to further the workes of charitie, of compaſſion.</p>
+            </div>
+            <div type="section">
+               <head>The cauſe of Taxations.</head>
+               <p>Taxations ſerue for ſin<g ref="char:EOLhyphen"/>gular vſes, for
+<list>
+                     <item>A ſtocke to ſet the poore on worke.</item>
+                     <item>The releefe of the impotent, &amp;c.</item>
+                     <item>The putting forth of apprentiſes.</item>
+                  </list> Anno <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. Elizabeth Regine.</p>
+               <p>Our forefathers were ſo forward in good workes that they thought they ſhould neuer die well, if at their deaths they diſpoſed not ſomewhat <hi>ad impios vſus,</hi> to remaine as a ſtocke to the towne where they inhabited, for the redeeming of captiues, ſuccouring of priſoners, releeuing of poore, furthering of young married cou<g ref="char:EOLhyphen"/>ples, &amp;c. but ſithence, either by reaſon that ſuch ſtockes haue bin ſubuerted contrary to the diſpoſition of the donors, or that men in this iron-age haue no deuotion to doe good; it falleth out, that
+<pb n="17" facs="tcp:14275:11"/> where one dies as a benefactour to a townſtocke, many thouſands die, and bequeath all to their owne ſtocke.</p>
+            </div>
+            <div type="section">
+               <head>What ſtocke will ſerue to ſet the poore on worke.</head>
+               <p>The charge muſt be con<g ref="char:EOLhyphen"/>ſidered and moderated according to the
+<list>
+                     <item>Stockes
+<list>
+                           <item>of citties.</item>
+                           <item>of townes.</item>
+                        </list>
+                     </item>
+                     <item>Place of habitation.</item>
+                     <item>Multitude of the poore.</item>
+                     <item>Abilitie of the parriſh.</item>
+                  </list>
+               </p>
+               <p>Citties and townes which haue common ſtockes for theſe vſes finde the benefit of them by caſe of charges, ſuch as want the<g ref="char:cmbAbbrStroke">̄</g>, feele the continuall burden of them, therefore ſuch places being ſo wel prouided, require the raiſing of a ſmall ſtocke.</p>
+               <p>The place of habitation is to be reſpected: for where there inha<g ref="char:EOLhyphen"/>bite clothiers, dornix-weauers and ſuch which ſet many on work, it is pittie they ſhould be permitted to ſend their worke into the countrie, or take ſtrangers for apprentiſes, when they may ſupply themſelues euen of their poore neighbours that dwell in towne with them, and if they had that care of the common weale, it were ſome cauſe of mitigation of the charge of a towne, and a manifeſt demonſtration of their naturall kindneſſe to their towne.</p>
+               <p>The multitude of the poore muſt be reduced to number: for in ſome places they be very fewe, in many places they ſwarme, and therefore as no martialiſt can make proportionall prouiſion for warre without a iuſt computation of his ſouldiers, ſo the taxing of money for a ſtock muſt be ordered according to the multitude of the poore, for which cauſe the ſtatute inioyne<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a booke of re<g ref="char:EOLhyphen"/>cord to be kept, that the names, numbers, and neceſſities of the poore may be ſeene and conſidered with the charge.</p>
+               <p>The abilitie of the pariſh muſt not be pretermitted: a pitifull man will not ouer-burthen his beaſt, much leſſe his brethren: as God hath not giuen wealth to euery man alike, ſo he hath not gi<g ref="char:EOLhyphen"/>uen poore to euery towne alike: and therefore if the multiplicitie of the poore doth exceed the abilitie of the pariſh, it muſt be ſup<g ref="char:EOLhyphen"/>plied
+<pb n="18" facs="tcp:14275:12"/> to other townes appropriate, adiacent and better able, accor<g ref="char:EOLhyphen"/>ding to the tenour of the Statute.</p>
+            </div>
+            <div type="section">
+               <head>What poore muſt be ſet to worke with the ſtocke.</head>
+               <p n="1">I. The children of thoſe parents which ſhall not be thought able to keepe and maintaine them. Sat. 39. Eliz. Reg.</p>
+               <p n="2">II. All ſuch perſons married or vnmarried, as (hauing no meanes to maintaine them) vſe no ordinarie and daily trade of life to get their liuings by. Stat. 39. Eliz. Reg.</p>
+               <p>Whereof there be foure ſorts: the
+<list>
+                     <item>Willing.</item>
+                     <item>Wilfull.</item>
+                     <item>Negligent.</item>
+                     <item>Fraudulent.</item>
+                  </list>
+               </p>
+               <p n="1">I. There be ſome willing to worke, but by reaſon either of the pennurie of their eſtate, or deficiancie of credit, or ſcarſitie of worke, or diſabilitie in doing of worke, they are conſtrained to liue idlie againſt their wills.</p>
+               <p n="2">II. There be others that are wilfull, &amp; by reaſon they are roo<g ref="char:EOLhyphen"/>ted in idleneſſe, or deſperatly addicted, they will not work though they haue it, but had rather practiſe picking, ſtealing, begging, ſhifting, or any vnlawfull courſe; then till the ground of good hus<g ref="char:EOLhyphen"/>bandrie.</p>
+               <p n="3">III. There be many which be negligent about their worke; when it is done
+<list>
+                     <item>Abuſiuely
+<list>
+                           <item>In doing of it they care not howe, and ſo ſpoile the worke.</item>
+                        </list>
+                     </item>
+                     <item>Dilatiuely
+<list>
+                           <item>In delaying the finiſhing of the worke, which in a man<g ref="char:EOLhyphen"/>ner is to refuſe to worke.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="4">IV. There be others which will applie their worke, and yet will defraud the owner by imbeaſelling or purloyning ſome a<g ref="char:EOLhyphen"/>way, and this doeth both cauſe diſtruſt in themſelues, and hinder others by their diſſolute dealing.</p>
+            </div>
+            <div type="section">
+               <pb n="19" facs="tcp:14275:12"/>
+               <head>Where the poore are to be ſet on worke.</head>
+               <p>The place muſt be appointed according to the diſpoſitions of the poore as they be
+<list>
+                     <item>Wilfull and incorrigible.</item>
+                     <item>Willing and tractible.</item>
+                  </list>
+               </p>
+               <p>The willfull and incorrigible muſt be conſtrained to worke, in the houſe of correction, that by applying labour and puniſhment to their bodies, their froward natures may be bridled, their euill mindes may be bettered, and others terrified by their example.</p>
+               <p>The willing and tractible, it is fit to continue them at worke in their own houſes: for as the houſe of correction is a place of cha<g ref="char:EOLhyphen"/>ſtiſement for malefactours, ſo thoſe which be of honeſt diſpoſitio<g ref="char:cmbAbbrStroke">̄</g> holde it a reproach to be put there: and therefore it were indiſ<g ref="char:EOLhyphen"/>cretion to offer them any place of diſcredit, when they are pliable in their buſineſſe at home.</p>
+            </div>
+            <div type="section">
+               <head>What workes are to be done by the poore.</head>
+               <p>The works are to be or<g ref="char:EOLhyphen"/>dered according to the
+<list>
+                     <item>Educations</item>
+                     <item>Conſtitutions</item>
+                  </list> of the poore.</p>
+               <p>The Education of the poore muſt haue reference to thoſe workes they haue beene commonly brought vp with, either by vſe or art: for if they be not appointed to eaſie and fit workes, the loſſe will be greater in learning, then the gaine will be in working: and therefore the ſtatute well prouideth that theſe ſtockes for the poore ſhould be raiſed of ſundrie things; as flaxe, hempe, wooll, threed, iron, &amp;c. to the end that ſome of them may be fitting and agreeable to the educable faculties and workes of the poore.</p>
+               <p>The Conſtitutions of the poore muſt be reſpected, wherein conſideration muſt be had to theſe three things.</p>
+               <p n="1">I. To the Sexe, whether they bee men or women: for ſome perſons be more vnfitte to perfourme many workes, then ſome other.</p>
+               <pb n="20" facs="tcp:14275:13"/>
+               <p n="2">II. To the yeres, whether they be yong or old: for ſome works are more eaſie to learne then other, and of leſſer charge, curious workes are more buſie, and the paines will not requite the coſt.</p>
+               <p n="3">III. To their bodies, whether they be feeble or able: for ſome workes be more laborious then other.</p>
+               <p>Theſe things beeing expended by Ouerſeers, they muſt tender the poore and lay no more vpon them, then they are able to beare, as we intreat God to lay no more vpon vs then he will make vs able to beare: and thoſe whome God doth puniſh with pouertie, let no man ſeeke to oppreſſe with crueltie, as the Taskmakers did the Iſraelites in Egypt.</p>
+            </div>
+            <div type="section">
+               <head>How the workes of the poore may be profitable.</head>
+               <p>HE that worketh expecteth to reap ſome profit by his paines, or els Gods bleſſing is not vpon his labour: therefore if you will haue any commoditie of the workes of the poore</p>
+               <p>You muſt
+<list>
+                     <item>Hold the poore to worke.</item>
+                     <item>Haue account of their worke.</item>
+                     <item>Make ſale of their worke.</item>
+                  </list>
+               </p>
+               <p n="1">I. Holde the poore to worke, for moſt are ſo by nature giuen to eaſe, that it is as hard to bring their bodies to labour, as the oxe that hath not beene vſed to the yoke to drawe.</p>
+               <p>The lawe prouideth a ſtocke to ſet them on worke, but if you will haue any profit extracted from the ſtocke, you muſt hold the poore to worke, and you ſhall find it will be a great extenuation of pouertie, otherwiſe their owne negligence will be the cauſe of their neceſſitie.</p>
+               <p>The Indian heathens would not giue their children or ſeruants any meate to their dinner, vnleſſe they had ſome way deſerued to be fed by their induſtrie or labour: and certes ſuch as will not worke when they haue it, or neglect their worke when they are at it, are by the Apoſtles rule not worthy to eate: and if Draco that famous lawe-maker were aliue, he would not ſuffer him to liue which doth refuſe to labour.</p>
+               <pb n="21" facs="tcp:14275:13"/>
+               <p n="2">II. You muſt take account of their workes, if you will haue commoditie by their worke: as gentlemen take account of their ſtewards for their houſhold charges, and of their bailifes for their reuenewes; ſo muſt ouerſeers doe for the workes of the poore, leaſt the ſtocke be conſumed by their ſlackneſſe, as the eſtates of many gentlemen be, which neglect the taking of their accounts, till their arrerages haue eaten vp their reuenewes.</p>
+               <p>This account may be done by way of examination in this ſort.</p>
+               <p>Inquire
+<list>
+                     <item>1. howe many can worke.</item>
+                     <item>2. what workes they can doe.</item>
+                     <item>3. how much euery one can work in a day &amp; follow it</item>
+                     <item>4. what they can haue for their workes at the weekes ende.</item>
+                  </list>
+               </p>
+               <p>If you knowe what they may get in a weeke if they apply their worke, you may conceiue in diſcretion by their charge what their neceſſities be; and howe they may liue by their worke and if they follow it.</p>
+               <p>The Egyptians kept the names of all the inhabitants in a regi<g ref="char:EOLhyphen"/>ſter booke, to knowe how euery one liued, and howe they were able to maintaine them and their familie: and many times in the yere they were examined, what they gained or receiued, to ſee if their gettings and expences were proportionable: and ſo the ma<g ref="char:EOLhyphen"/>giſtrate might eaſily perceiue who liued by his lawefull calling, or by ſhifting; this example ſhould be imitated of ouerſeers.</p>
+               <p n="3">III. You muſt make ſale of their works, to the ende you may reſerue a ſufficient ſtocke alwaies to imploy the poore, &amp; to haue money to pay the poore for their worke as they doe it.</p>
+               <p>The ſtatute limiteth a ſtocke to be raiſed of ſuch things, as may be eaſily learned, and readily ſold: as ſpinning of flaxe into threed for linnen, carding and ſpinning of wooll into yarne for wollen, bunching of hempe, &amp;c. as they are workes ſoone compaſſed by any that are capable of wit; ſo they are things very vendible to put away when they are done. Therefore if there be any occupiers, artificers, or tradſ-men in the towne, which haue vſe for thoſe things; the ouerſeers ſhould doe well to perſwade them to buy theſe commodities, ſeeing it is for the benefit of their towne.</p>
+               <pb n="22" facs="tcp:14275:14"/>
+               <p>Ouerſeers muſt as much as in them lie increaſe, or at leaſt con<g ref="char:EOLhyphen"/>tinue the ſtocke it ſelfe: and as for the benefit that may be made of the vſe of it, it muſt ſupport the neceſſities of thoſe which worke.</p>
+               <p>You muſt conceiue, that at the firſt there will be ſome waſte of the ſtocke, by reaſon of the vnto wardneſſe and vnaptneſſe of ma<g ref="char:EOLhyphen"/>ny to worke, and therefore it muſt be ſupplied againe; and yet this kinde of waſte is tollerable in two reſpects. 1. <hi>of the inconuenience:</hi> for it is better to ſuſtaine ſome loſſe in learning them to worke, then to keepe them idle to induce them to euill. 2. <hi>of the enterance:</hi> for euery one muſt haue a beginning, and where there are many learners there will bee much loſſe, as the ſcholler waſteth much paper before he can well vſe his pen.</p>
+               <p>This may ſuffice for the ordering of the ſtocke for the poore, nowe it remaines to intreat of the releeuing of poore by money.</p>
+            </div>
+            <div type="section">
+               <head>What poore are to be re<g ref="char:EOLhyphen"/>leeued with money.</head>
+               <p>IF the rule of charitie toward the poore were obſerued, the eſta<g ref="char:EOLhyphen"/>bliſhing of ſtatutes for releeuing the poore might be omitted.</p>
+               <p>In the daies of king Edward the ſixt, the lawe appointed the miniſters on holidaies to vſe good perſwaſions to excite the peo<g ref="char:EOLhyphen"/>ple to extend their charitie to the poore, and to giue according to their degrees and deuotions; but in this obdurate age of ours, nei<g ref="char:EOLhyphen"/>ther godly perſwaſions of the paſtors, or pitifull exclamations of the poore, can mooue any to mercie: vnles there were a lawe made to compell them: whereby it appeareth, that moſt giue to the poore rather by compulſion then of compaſſion.</p>
+               <p>Thoſe generally are to be deemed poore, which cannot liue without releife of the lawe.</p>
+               <p>It is called releife, becauſe it is <hi>(releuamen oneris)</hi> an eaſe or ligh<g ref="char:EOLhyphen"/>tening of the burden: nowe who knowes not that the poore in<g ref="char:EOLhyphen"/>dure many burthens, and that a little thing will eaſe where there is want or oppreſſion.</p>
+            </div>
+            <div type="section">
+               <pb n="23" facs="tcp:14275:14"/>
+               <head>A diſcription of poore by their Defects.</head>
+               <p>Such poore as ſhould haue releefe in money are diſcribed by their defects of
+<list>
+                     <item>nature
+<list>
+                           <item>as olde.</item>
+                        </list>
+                     </item>
+                     <item>ſences
+<list>
+                           <item>as blinde.</item>
+                        </list>
+                     </item>
+                     <item>members
+<list>
+                           <item>as lame.</item>
+                        </list>
+                     </item>
+                     <item>Bodie
+<list>
+                           <item>as not able to worke.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The laſt defect, <hi>not able to worke</hi> is an expoſition of the former, as for inſtance.</p>
+               <p>There be many aged can worke, and there be ſome workes re<g ref="char:EOLhyphen"/>quire more vſe then labour, and may eaſily be done by the olde: and therefore by old is not meant ſuch as be onely in yeares, but by reaſon of the imbicillitie of their age they cannot work, or liue of their worke.</p>
+               <p>There be ſome that want an eie, and yet can worke with the vſe of one eie, and therefore by blind is intended ſuch an one as can<g ref="char:EOLhyphen"/>not ſee at all to worke, or liue of his worke.</p>
+               <p>There be other that want a legge, and yet he may doe many works hauing the vſe of his hands, and therefore by lame is meant ſuch an one, as for want of his limmes he cannot labour, nor liue of his labour.</p>
+               <p>So long as there is any naturall or neceſſarie meanes left to liue, none muſt depend vpon the helpe of the lawe.</p>
+               <p>If a man hath ſtrength he ſhall be conſtrained to worke to re<g ref="char:EOLhyphen"/>leeue his want.</p>
+               <p>If poore parents haue children or grand-children of abilitie, they are by lawe to releeue them.</p>
+               <p>If poore children haue father or grand-father of abilitie, they are by lawe to releeue them.</p>
+               <p>Honourable is that lawe that prouides for the preſeruation of life, but miſerable is that age, that muſt be compelled by penalty of lawe, to doe that it ſhould extend by inſtinct of nature.</p>
+               <p>Ioſeph nouriſhed his father Iacob in his olde age when he was diſtreſſed, the father receiued his prodigall ſonne, when he had conſumed all, and therefore why ſhould not parents and children tender one another, when their owne ſtockes be in diſtreſſe.</p>
+               <pb n="24" facs="tcp:14275:15"/>
+               <p>As the workes of nature ſhould be done of neceſſitie, ſo the workes againſt nature muſt be forborne of neceſſitie, though there were no law: for this cauſe the heathen man thought it need<g ref="char:EOLhyphen"/>leſſe to make a lawe againſt parricide, becauſe hee thought there was not any ſo monſtrous to commit an act againſt nature: and if parents and children were naturall, there ſhould neede no poſi<g ref="char:EOLhyphen"/>tiue lawe to compell them to doe the workes of nature.</p>
+               <p>There is another word of defect giuen to the poore, of grea<g ref="char:EOLhyphen"/>ter emphaſis then the other (as Impotent) and ſuch poore eſpeci<g ref="char:EOLhyphen"/>ally are to be releeued with money: therefore it is neceſſarie to knowe howe far that word extendeth, for the better information of Ouerſeers.</p>
+            </div>
+            <div type="section">
+               <head>The ſignification of the word Impotent.</head>
+               <p>THe word Impotent is deriued from the latin and importeth as much as vnable: and ſuch be deemed impotent by the law as be depriued and deſtitute of all meanes to liue, that they muſt either haue releife to nouriſh their liues, as the lampe muſt haue oyle to cheriſh the light, or els they muſt ſtarue for want of releife as Lazarus did; and that is no better then murther, as one of the Fathers ſaith, <hi>Si non pauiſti occidiſti.</hi>
+               </p>
+               <p>In the ſtatute againſt vagonbondrie made in the 23 yeare of King Edward the third, Impotent (being oppoſed againſt ſtrong and ſturdie) is taken for weake or lame; and ſo it is commonly in vulgar acception: but the word ſtretcheth to a larger ſignification: for it includeth and comprehendeth all other defects of nature or neceſſitie.</p>
+               <p>Vnder this word Im<g ref="char:EOLhyphen"/>potent is implied a diſ<g ref="char:EOLhyphen"/>abilitie by reaſon of
+<list>
+                     <item>Decrepitie.</item>
+                     <item>Infancie.</item>
+                     <item>Natiuitie.</item>
+                     <item>Caſualtie.</item>
+                     <item>Familie.</item>
+                  </list>
+               </p>
+               <p n="1">I. <hi>By Decrepitie,</hi> when a man is ſo olde that he is paſt labour. It is great reaſon that ſuch as are yeelding to nature ſhould haue
+<pb n="25" facs="tcp:14275:15"/> ſome releefe to preſerue nature.</p>
+               <p n="2">II. <hi>By infancie,</hi> when poore or phans and others be left father<g ref="char:EOLhyphen"/>leſſe and motherleſſe to the world, and by reaſon of their tender yeares, cannot worke, or be vnable to liue of their worke, it is fitte they ſhould haue releefe: for if the bird will cheriſh her yong till they bee able to flie, wee are bound by nature to nouriſh theſe till they be able to ſhift.</p>
+               <p n="3">III. <hi>By natiuitie,</hi> when any be tra<g ref="char:EOLhyphen"/>duced with natiuall defects, either of
+<list>
+                     <item>witte.</item>
+                     <item>members.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Of wit,</hi> as the ideot, or the naturall foole.</p>
+               <p>
+                  <hi>Of members,</hi> as thoſe which be blind, dumme, lame, &amp;c.</p>
+               <p>They which want witte to ſhift in the world, and thoſe which cannot ſee, ſpeake, or trauaile in the worlde, haue neede of ſome releefe to liue in the world.</p>
+               <p n="4">IV. By caſualtie whe<g ref="char:cmbAbbrStroke">̄</g> any be made vnable.
+<list>
+                     <item>By aduenture
+<list>
+                           <item>in warre
+<list>
+                                 <item>maimed in the Queenes ſeruice.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>By miſaduenture
+<list>
+                           <item>in worke
+<list>
+                                 <item>maimed in ſome lawfull labour.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                     <item>By lunacie, being depriued of reaſon.</item>
+                     <item>By infir<g ref="char:EOLhyphen"/>mitie
+<list>
+                           <item>Temporarie as
+<list>
+                                 <item>Viſitation of ſickeneſſe.</item>
+                                 <item>A running iſſue.</item>
+                                 <item>Any infectious diſeaſe.</item>
+                              </list>
+                           </item>
+                           <item>Perpetuall as
+<list>
+                                 <item>the numme palſie.</item>
+                                 <item>bedrecie, &amp;c.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>There is none ſo voide of mercie, that will not comiſerate theſe men, and releeue them in ſome reaſonable proportion according to their ſeuerall wants and neceſſities.</p>
+               <p n="5">V. <hi>By familie,</hi> when a man is ouercharged with many young children, that though he toile day and night to keepe his family, (as Iacob did for Laban) yet he cannot maintaine his charge with his labour, therefore ſuch an one is to be conſidered: for if a man in pittie will eaſe his beaſt which is oppreſſed with burthen, he muſt in nature releeue his neighbour which is oppreſſed with charge.</p>
+               <p>There be diuers others which are made poore, ſome
+<list>
+                     <item>by prodigalitie.</item>
+                     <item>by caſualtie
+<list>
+                           <item>of fire.</item>
+                           <item>of water.</item>
+                        </list>
+                     </item>
+                     <item>by ſuertiſhippe.</item>
+                  </list>
+               </p>
+               <pb n="26" facs="tcp:14275:16"/>
+               <p>But howe theſe are to be releeued and by whome I referre to the ſtatutes and your conſiderations; onely I will adde this in the end, that if you hold ſo many to worke as be able to worke, and ought to worke, you ſhall need the leſſe money to diſtribute and giue away.</p>
+               <p>The lawe firſt prouideth a ſtocke to imploy ſuch and ſo many as can worke, and then appointeth money as a ſecondary meane to eaſe ſuch as be vnable to worke: for indeede that which is gotte by a mans labour is a naturall releefe as the mothers breſt is to the childe; and ſuch as be chargeable to the towne which can liue in ſome meaſure either of their labours or otherwiſe, are no better then theeues: for they take it from others, to whome it iuſtly be<g ref="char:EOLhyphen"/>longeth: and thoſe which giue it, are guiltie as acceſſaries with the<g ref="char:cmbAbbrStroke">̄</g>, if they knowe they may forbeare it.</p>
+            </div>
+            <div type="section">
+               <head>Who are to be put forth apprentiſes.</head>
+               <p>OVr anceſtours did paſſe ouer many yeres before they would take them wiues, Iacob ſerued long for his wiues becauſe he would not marrie vntill he had maintenance: but in this age, the poorer ſort of men are ſtraight inclined to marrie without any reſpect howe to liue: hereof it is that the world growes ſo popu<g ref="char:EOLhyphen"/>lous and poore: for commonly the poore do moſt of all multiply children; therefore (becauſe children though they bee bleſſings, are a burden to many poore men) we may further ſee into the ex<g ref="char:EOLhyphen"/>cellencie of this lawe: for it doeth not onely prouide ſummes of money to be taxed for a ſtocke to ſet the poore on worke, &amp; for competent releefe to be giuen to ſuch as be impotent, but alſo it appointeth ſummes of money to bee leuied for the eaſe of poore men which be ouercharged by putting foorth their children: and if the philoſopher would ſay that children were more bound to their tutors that teach them howe to liue well, then to their pa<g ref="char:EOLhyphen"/>rents that gaue them life: howe much are they bound to pray for the Founders of this lawe, which prouides they ſhould be trained vp to ſome honeſt trade of life, when their parents for pouertie cannot perfourme it.</p>
+               <pb n="27" facs="tcp:14275:16"/>
+               <p>Anno 39. Eli<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>beth. Regine. The children of thoſe parents which ſhall not be thought able to keepe and maintaine them, are by the ſtatute to bee put apprentiſes vntill they determine certaine yeares.</p>
+               <p>That is to ſay
+<list>
+                     <item>A man childe xxiiii. yeares.</item>
+                     <item>A woman childe xxi. yeares.</item>
+                  </list>
+               </p>
+               <p>In putting forth Ap<g ref="char:EOLhyphen"/>prentiſes there muſt be regarde had to
+<list>
+                     <item>The inclination</item>
+                     <item>The placing</item>
+                     <item>The neceſſitie</item>
+                  </list> of the poore.</p>
+               <p>
+                  <hi>To the inclination:</hi> for the poore are by nature much inclined to eaſe and idlenes: and therefore they are to be put forth very time<g ref="char:EOLhyphen"/>ly: for as a twigge will beſt bend when it is greene, ſo children are fitteſt to be bound when they are young, otherwiſe by reaſon of their idle and baſe educations, they will hardly hold ſeruice: but as they haue wauering and ſtraying mindes, ſo they will haue wan<g ref="char:EOLhyphen"/>dering and vnſtaied bodies, which will ſooner be diſpoſed to va<g ref="char:EOLhyphen"/>grancie then actiuitie, to idleneſſe then to worke.</p>
+               <p>
+                  <hi>To the placing:</hi> for there bee many Ouerſeers, that without re<g ref="char:EOLhyphen"/>ſpect of the facultie, honeſtie, or abilitie of the maſters are readie to thruſt out poore mens children for apprentiſes, when either the maſters not beeing able to receiue them, will by ſome deuiſe or hard intreatie prouoke the apprentiſes vnlawefully to depart; or els the apprentiſe ſhall conſume his time without experience of his trade: if they bee thus poſted off it will nothing at all benefit, but rather increaſe the charge of the pariſh.</p>
+               <p>
+                  <hi>To the neceſſitie:</hi> for if parents haue ſixe or ſeauen children, and amongſt them all there is one which by his labour is able to keep himſelfe, and yeeld ſome releefe to his parents to take away ſuch an one from them is a point of ſmall pollicie: but rather put forth thoſe which are a burden and charge to their parents.</p>
+               <p>There be many other things might be inſerted, but becauſe the worke is brought to more perfection by practiſe then the penne, I will leaue the reſt to your experience.</p>
+            </div>
+            <div type="section">
+               <pb n="28" facs="tcp:14275:17"/>
+               <head>OBSERVATIONS for Ouerſeers.</head>
+               <p>WHerein they ſhall perceiue
+<list>
+                     <item>1. their authoritie as it is
+<list>
+                           <item>Conioyned.</item>
+                           <item>Confirmed.</item>
+                        </list>
+                     </item>
+                     <item>2. in their ouerſight.</item>
+                     <item>3. Some actions incident to their office.</item>
+                  </list>
+               </p>
+               <p n="1">1. <hi>Their authoritie</hi> as it is
+<list>
+                     <item>Conioyned.</item>
+                     <item>Confirmed.</item>
+                  </list>
+               </p>
+               <p>As it is conioyned: for whatſoeuer is written in this treatiſe, ap<g ref="char:EOLhyphen"/>pertaineth as well to Church-wardens as Ouerſeers: for both are equally conioyned in the office.</p>
+               <p>As it is confirmed: for whatſoeuer is done by the Church-war<g ref="char:EOLhyphen"/>dens and Ouerſeers in their office, muſt bee confirmed with the conſent of two iuſtices of peace or moe, whereof one to be of the Quorum.</p>
+               <p n="2">2. <hi>Their ouerſight:</hi> tender the poore but doe not tyranize ouer them for it is no more glorie to triumph ouer the poore, then to tread of a worme, it is better to deſerue commendation by diſcrete gouernment, then exclamation by rigorous dealing.</p>
+               <p>There be many in this office which be too milde, and that is a meanes to animate the idle: for where the officer hath not a coun<g ref="char:EOLhyphen"/>tenance mixt with ſome auſteritie the poore will preſume too much of libertie.</p>
+               <p>There be others are to buſie, which haue no felicitie but in ra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing reuiling, and abuſing the poore: and therefore they are con<g ref="char:EOLhyphen"/>temned, according to that ſaying or Salomon, <hi>a buſie bodie is hated.</hi>
+               </p>
+               <p>The poore of all others are moſt vntractable, but an officer muſt ſometime conſider what the wiſe man ſaith, <hi>It is the glory of a man to paſſe by an offence:</hi> and let it ſuffice that God doth puniſh them with pouertie, though man doeth not alwaies croſſe them with ſeueritie.</p>
+               <p>There are others ſo high conceited, that they will hardly in<g ref="char:EOLhyphen"/>cline to conſul<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with their fellowes but will beare the whole ſway; it was one note of inſolencie obſerued in ſuch an Ouerſeer, who
+<pb n="29" facs="tcp:14275:17"/> beeing to ſubſcribe his name to an ordinarie paſport, he could not be content to write as all wiſe men vſe, his name, and title <hi>ouerſeer,</hi> but in a glorious manner he confirmes it thus: <hi>per me R. L. capita<g ref="char:EOLhyphen"/>lem pelagium.</hi>
+               </p>
+               <p>Men that are equall in office ſhould not be captious in confer<g ref="char:EOLhyphen"/>ring or conſulting one with an other, but when euery one hath deliuered his opinion, let his ſpeech be preferred, which accor<g ref="char:EOLhyphen"/>deth moſt with reaſon, and conſiſteth beſt in action for the bene<g ref="char:EOLhyphen"/>fit of the common-weale.</p>
+               <p n="3">3 <hi>Some Actions incident to their office</hi> which before may be o<g ref="char:EOLhyphen"/>mitted, and now not amiſſe to be remembred.</p>
+               <p n="1">1 Let your Taxations be made as well with diſcretion as affe<g ref="char:EOLhyphen"/>ction, and indeauour to proportion the rates by the neceſſitie of the poore, and not the poore by the direction of your rates: for if you taxe tenne ſhillings a weeke more then neede, and then giue largely becauſe there is enough, you ſhall increaſe the number of the poore, and nothing decreaſe the charge of the parriſh.</p>
+               <p n="2">2 The Law is made to eaſe and extenuate the penurie of the poore, and therefore as one of the fathers ſaith of temperate men, <hi>Sumi debent alimenta vt medicamenta,</hi> they muſt take meate like medecines to refreſh and not oppreſſe nature: ſo ſay I of poore men, they muſt haue releefe for neceſſitie, much leſſe ſuperfluitie.</p>
+               <p n="3">3 To releeue ſuch by pretence of the law which may forbeare it by intent of the law, is a direct courſe to nouriſh them in idlenes which take it: to robbe others of releefe that want it: to wrong thoſe of their money that pay it, and to condemne them of ouer<g ref="char:EOLhyphen"/>ſight which diſpoſe it.</p>
+               <p n="4">4. To inquire after poore is the next way to procure poore: for ſuch is the impudencie of this age, that many will diſſemble their eſtates to haue releefe, if you doe but examine their eſtates to ſee if they want releefe: and ſome will ſue to be recorded in the booke for the poore when they are better able to contribute to the poore.</p>
+               <p n="5">5 Ioſeph by foreſight did good to an whole countrey in lay<g ref="char:EOLhyphen"/>ing vp of corne: the piſmere doth hoard vp corne beforehand to ſerue for a hard ſeaſon: therefore learne by the example both of reaſonable and vnreaſonable creatures to be prouident in time of
+<pb n="28" facs="tcp:14275:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="29" facs="tcp:14275:18"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="30" facs="tcp:14275:19"/> yeare, to buie corne, woode, coles, and other neceſſaries, at a rea<g ref="char:EOLhyphen"/>ſonable price for the benefit of the poore, and that wil be a meane to reſtraine them from ſtraying to woods, breaking of hedges, and many other abuſes.</p>
+               <p n="6">6 It is a renowne to any nation to haue no common, ſturdie, or wandering beggers. The <hi>Dutch-man</hi> cannot indure a begger in his countrey. It is ſo ſhamefull a life that <hi>Sirach</hi> may well ſay it <hi>is better to die then begge.</hi> Yet becauſe the impotencie and impedi<g ref="char:EOLhyphen"/>ments of ſome will ſtirre vp many to mercie, more by the ſight of their perſons then otherwiſe, and for that many fragments would be caſt away, which many of theſe are glad to come by; our Law for good conſiderations hath giuen authoritie to Ouerſeers in their diſcretion to licenſe ſome beggers within the parriſh, there<g ref="char:EOLhyphen"/>fore they ſhould be carefull to obſerue the tenour of the law, to containe ſuch as they licenſe within their limits, and to puniſh ſuch which wander out of the parriſh according to the Statute.</p>
+               <p n="7">7 When Obadiah hid many prophets in a caue, he did bring them bread and water: he which keepes his dogge in a ſtring will giue him ſomewhat: and therefore if the poore be barred of the benefit of begging, and you which be Ouerſeers ſupplie not their neceſſities at home, you are guiltie of their deaths if they periſh for want of prouiſion: for when they might go abroad and begge of others, it was their ſinne to denie releefe, as it was the rich mans ſinne, not to giue when Lazarus begged at his doore, but ſince the Law hath committed the ouerſight of the poore to you, it is your ſinne if you ſuffer them to periſh for want of ſuccour.</p>
+               <p n="8">8 As the law hath giuen Ouerſeers authoritie to taxe men, ſo it prouideth a remedie to recouer taxations by way of diſtreſſe, &amp;c. therfore if you abridge the poore of their dutie, rather the<g ref="char:cmbAbbrStroke">̄</g> you wil diſtrain the rich for diſpleaſure, you deſerue double puniſhment.</p>
+               <p n="9">9 If euery one be rated equally accoding to their eſtates, let euery one pay their rates, though their be ſufficient beſide for the poore: when the willing and the weaker ſort haue paid their due, they are iniuried if the backward and better able be forborne; be<g ref="char:EOLhyphen"/>cauſe they are not equally vſed: therefore the arrerages and re<g ref="char:EOLhyphen"/>mainders would be leuied for two reaſons: 1. for example ſake leaſt others be animated by ſo bad a preſident to become backe<g ref="char:EOLhyphen"/>ward
+<pb n="31" facs="tcp:14275:19"/> in paying their due. 2. For the good of the inhabitants: for if there be a ſurpluſage left and collected, it wil ſomewhat eaſe and abate the taxation for the yeare following.</p>
+               <p n="10">10 Diſtreſſes would be taken of ſuch things (if it be poſſible) as may be inſeparable, portable, and ſaleable: and if they can not conueniently be had there is a more ſpeedie courſe to be taken: for vpon returne of defect of diſtreſſes by the Ouerſeers, the ma<g ref="char:EOLhyphen"/>giſtrate may commit the offendours to priſon, there to remaine without bayle or maineprize vntill their dutie be paide.</p>
+               <p n="11">11 As the authoritie of the Ouerſeers is great, ſo the penaltie which the law inflicteth is great, if they be negligent in the works of their office, or refuſe to yeelde account of their actions at the diſcontinuing of their office: therefore, as you will diſcharge a good conſcience before God, and auoide the daunger of law a<g ref="char:EOLhyphen"/>mongſt men, haue a ſpeciall care to execute your office.</p>
+               <epigraph>
+                  <q>
+                     <hi>Homines hominum cauſa eſſe generatos.</hi>
+                  </q>
+               </epigraph>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="appendix">
+            <div type="prospect">
+               <head>A proſpect for rich men to induce them to giue to the poore.</head>
+               <div type="section">
+                  <p>THat we ought to giue, is manifeſt by many reaſons drawne from the
+<list>
+                        <item>Creator.</item>
+                        <item>Creatures.</item>
+                        <item>Lawes.</item>
+                     </list>
+                  </p>
+                  <div n="1" type="subsection">
+                     <head>1. The Creator.</head>
+                     <p n="1">1 God is called <hi>Deus à dando:</hi> becauſe he giueth all things. And if God in mercie giue vs all, ſhall we want mercie to giue to others.</p>
+                     <p n="2">2 He which is Lord of all, can take vs from all, as he did the glutton, or take all from vs, as he did by Iob; and therefore let vs giue as God willeth vs.</p>
+                  </div>
+                  <div n="2" type="subsection">
+                     <pb n="32" facs="tcp:14275:20"/>
+                     <head>2. The Creatures</head>
+                     <list>
+                        <item>Motiue.</item>
+                        <item>
+                           <g ref="char:V">Ʋ</g>egetatiue.</item>
+                        <item>Inſenſible.</item>
+                     </list>
+                     <p n="1">1 Motiue creatures bewray their glorie in giuing: for the Sun, moone, and ſtarres giue their light to the world for the benefit of man.</p>
+                     <p n="2">2 Vegetatiue creatures ſhew their goodnes by giuing: for trees, plants, hearbes, &amp;c. they yeeld fruit for the vſe of man.</p>
+                     <p n="3">3 Inſenſible creatures are beneficial to man: for the fire giues his heat, the earth yeeldeth corne, graſſe, and great abundance of o<g ref="char:EOLhyphen"/>ther things.</p>
+                     <p>If theſe Creatures giue in their kinde, much more ought man for whome they were made: and if creatures giue for the vſe of man, ſhall one man refuſe to giue for the good of an other.</p>
+                  </div>
+                  <div n="3" type="subsection">
+                     <head>3. The Lawes</head>
+                     <list>
+                        <item>Naturall.</item>
+                        <item>Morall.</item>
+                        <item>Politicall.</item>
+                     </list>
+                     <p n="1">1 By Naturall law we ought to giue in reſpect of
+<list>
+                           <item>Natiuitie.</item>
+                           <item>Humanitie.</item>
+                        </list>
+                     </p>
+                     <p>In reſpect of Natiuitie
+<list>
+                           <item>Carnall.</item>
+                           <item>Spirituall.</item>
+                        </list>
+                     </p>
+                     <p>By carnall natiuitie, we are conceiued and traduced in ſinne: we haue all one entrance into life and egredience out of life: and therefore beeing all by birth no better then an other, why ſhould not one doe for an other.</p>
+                     <p>By ſpirituall natiuitie, we are all brothers in Chriſt, we are be<g ref="char:EOLhyphen"/>gotten all with one ſpirit, we haue all one God to our father, one Catholike church to our mother: and therefore why ſhould not one brother doe for an other.</p>
+                     <p>In reſpect of Humanitie
+<list>
+                           <item>1. If euery creature in his kind will compaſſionate an other, much more ought we to haue a fel<g ref="char:EOLhyphen"/>low-feeling of our owne fleſh.</item>
+                           <item>2. If a good man is mercifull to his beaſt, is not he worſe then a beaſt that will be mercileſſe to his brother.</item>
+                        </list>
+                     </p>
+                     <pb n="33" facs="tcp:14275:20"/>
+                     <p n="2">2. by Morall law we ought to giue in regard of
+<list>
+                           <item>1. promiſes
+<list>
+                                 <item>of rewardes
+<list>
+                                       <item>Temporarie.</item>
+                                       <item>Eternall.</item>
+                                    </list>
+                                 </item>
+                                 <item>of puniſhments
+<list>
+                                       <item>by malediction.</item>
+                                       <item>by conde<g ref="char:cmbAbbrStroke">̄</g>natio<g ref="char:cmbAbbrStroke">̄</g>.</item>
+                                    </list>
+                                 </item>
+                              </list>
+                           </item>
+                           <item>2. preſidents in
+<list>
+                                 <item>Chriſt.</item>
+                                 <item>Patriarkes.</item>
+                                 <item>Apoſtles.</item>
+                                 <item>All good profeſſors.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </p>
+                     <p>Theſe temporarie rewardes are promiſed. He which giueth to the poore ſhall not lacke, ſaith Salomon; hee ſhall haue deliuerie from his troubles in the time of need, ſaith the Pſalmiſt. So that is true which Auguſtine ſaith, he which giueth to the poore gaineth by it, as the husband-man hath an eare of corne, for a kernell of graine.</p>
+                     <p>This eternall rewarde is promiſed amongeſt the beatitudes, to him that perfourmed the workes of charitie, <hi>enter the euerlaſting kingdome:</hi> and this eccho ſounded in the eares of the faithfull ſer<g ref="char:EOLhyphen"/>uant, <hi>enter thy maſters ioy:</hi> and what thing in all the world can plea<g ref="char:EOLhyphen"/>ſure vs, if we be excluded the kingdome of heauen and the ioyes thereof.</p>
+                     <p>Let vs giue for feare of puniſhments
+<list>
+                           <item>of malediction.</item>
+                           <item>of condemnation.</item>
+                        </list>
+                     </p>
+                     <p>Of malediction: for he which doth not giue to the poore ſhall haue many curſes, as appeare in the prouerbs; and the curſes of the righteous many times auaile as it did with Eliah.</p>
+                     <p>Of condemnation: for it is ſaid to the wicked which wanted the workes of charitie, <hi>goe ye into euerlaſting fire:</hi> as ye haue exam<g ref="char:EOLhyphen"/>ple in Diues who went to hell for his hardnes.</p>
+                     <p>we haue many pre<g ref="char:EOLhyphen"/>ſidents
+<list>
+                           <item>in Chriſt
+<list>
+                                 <item>hee ſpent his whole life in paſſion and compaſſion, and in the ende hee gaue his owne life for vs, and ſhall not wee giue ſome part of our goods for his ſake.</item>
+                              </list>
+                           </item>
+                           <item>in
+<list>
+                                 <item>Patriarks</item>
+                                 <item>Prophets</item>
+                                 <item>Apoſtles</item>
+                                 <item>All good profeſſors</item>
+                              </list> the Scripture yeeldeth plentiful exa<g ref="char:cmbAbbrStroke">̄</g>ples of them.</item>
+                        </list>
+                     </p>
+                     <pb n="32" facs="tcp:14275:21"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="33" facs="tcp:14275:21"/>
+                     <gap reason="duplicate" resp="#OXF" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="34" facs="tcp:14275:22"/>
+                     <p n="3">3 Politicall law ſhould moue vs to giue in reſpect of
+<list>
+                           <item>the lawe maker.</item>
+                           <item>the benefit of the lawe.</item>
+                        </list>
+                     </p>
+                     <p>
+                        <hi>Of the lawe maker:</hi> if the Athenians proſpered by the lawes of Solon, or the Lacedemonians by the lawes of Licurgus, or the Iſ<g ref="char:EOLhyphen"/>raelites by the lawes of Moſes: then Engliſhmen cannot but pro<g ref="char:EOLhyphen"/>ſper (as in many other) ſo in this laſt good lawe for prouiſion of the poore enacted by their Prince: and therefore if we ought to obey a tyrant if he did rule, much more ought we to yeeld obedi<g ref="char:EOLhyphen"/>ence to the lawes of ſo godly a gouernour.</p>
+                     <p>The benefit of the lawe doeth ap<g ref="char:EOLhyphen"/>peare foure waies: for it
+<list>
+                           <item>1 Repreſſeth idleneſſe and prouideth to ſette the poore on worke, &amp; to releeue ſuch as cannot worke.</item>
+                           <item>2 Extirpeth infinite ſwarmes of rogues and vaga<g ref="char:EOLhyphen"/>bounds which wandred vp and downe to the great danger and indignitie of our nation.</item>
+                           <item>3 Compelleth vs but to releeue the poore of our own pariſh, whoſe conditions and eſtates we know: whereas before wee gaue to all paſſengers, which peraduenture were readie to cut our throats, if op<g ref="char:EOLhyphen"/>portunitie ſerued.</item>
+                           <item>4 Appointeth vs to a certainty of our gift, before we gaue we know not what, nor to whome, now we paie but that we are taxed, and that to our owne poore neighbours, ſuch as dwell in towne with vs.</item>
+                        </list>
+                     </p>
+                  </div>
+               </div>
+               <div type="section">
+                  <head>In what manner and meaſure we muſt giue to the poore.</head>
+                  <p>We muſt giue
+<list>
+                        <item>1. liberally</item>
+                        <item>2. willingly</item>
+                        <item>3. readily</item>
+                     </list> for Chriſt himſelfe did ſit ouer a<g ref="char:EOLhyphen"/>gainſt the treaſurie, to ſee how liberall, willing, and ready the people were to put into the treaſurie.</p>
+                  <pb n="35" facs="tcp:14275:22"/>
+                  <p>Giue liberally in reſpect of
+<list>
+                        <item>the giuer
+<list>
+                              <item>for he which giueth to the poore len<g ref="char:EOLhyphen"/>deth to the Lord, and ſhall we not lend him liberally which giueth vs all.</item>
+                           </list>
+                        </item>
+                        <item>the gaine
+<list>
+                              <item>for the more we miniſter, the more it multiplieth; like him, which the more ſeed he ſoweth, the greater croppe of corne he reapeth.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Giue willingly in regarde of
+<list>
+                        <item>the workes</item>
+                        <item>the wordes</item>
+                     </list> of charitie.</p>
+                  <p>Of the workes of charitie; for the will is the worke in euery a<g ref="char:EOLhyphen"/>ction, as the roote is the life of euery plant: and whatſoeuer a man giues if it be againſt his will, it is no worke of charitie but iniqui<g ref="char:EOLhyphen"/>tie. The gift may doe good amongſt men, but the will condemnes the giuer before God.</p>
+                  <p>The words of charitie are phraſed by the names of
+<list>
+                        <item>beneuolence
+<list>
+                              <item>it ſigni<g ref="char:EOLhyphen"/>fieth wel-willing, which teach<g ref="char:EOLhyphen"/>eth vs to giue with a wil<g ref="char:EOLhyphen"/>ling minde.</item>
+                           </list>
+                        </item>
+                        <item>Almes
+<list>
+                              <item>it ſigni<g ref="char:EOLhyphen"/>fieth mercie, which argueth we ought to giue in fraternal comiſeration.</item>
+                           </list>
+                        </item>
+                     </list>
+                  </p>
+                  <p>Giue readily in reſpect of
+<list>
+                        <item>our owne natures.</item>
+                        <item>others neceſſities.</item>
+                     </list>
+                  </p>
+                  <p>Of our owne natures: for if we haue a will to doe good, and be not ready to execute it, corruption will infect and alter our affe<g ref="char:EOLhyphen"/>ctions by delay, as the flie will putrifie the ointment if it be let a<g ref="char:EOLhyphen"/>lone: therefore this readineſſe of giuing was commended in the Corinths by S. Paul.</p>
+                  <p>Of others neceſſities, much comfort commeth of readie giuing when many periſh by delaie in giuing: the wounded man had much comfort, becauſe the Samaritane was readie to doe him him good: but Lazarus did periſh becauſe the rich mans crummes were not readie to releeue him: and therfore Timothy was willed to charge ſuch as were rich to be readie to giue, laying vp a good foundation, &amp;c.</p>
+                  <p>Theſe reaſons may perſwade vs to giue, if we haue grace, and a thouſand more be ſuperfluous if we want grace. God hath giuen riches to many to ſee howe they will vſe them, and he hath made many poore as his inſtruments to prooue them.</p>
+               </div>
+            </div>
+            <div type="pattern">
+               <pb n="36" facs="tcp:14275:23"/>
+               <head>A Patterne for poore men, to prouoke them to labour for their liuing.</head>
+               <p>We ought to labour by reaſons taken from
+<list>
+                     <item>Creatures
+<list>
+                           <item>Elementall.</item>
+                           <item>Vnreaſonable.</item>
+                           <item>Reaſonable.</item>
+                        </list>
+                     </item>
+                     <item>Lawes
+<list>
+                           <item>Diuine.</item>
+                           <item>Humane.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1 Elementall creatures giue vs example of labour: for we ſee by dayly experience that the firmament it ſelfe is mooueable, the ſunne, moone, and ſtarres are ſtirring; and therefore we are not worthie to liue if we incline not to labour, when theſe creatures giue vs light to labour.</p>
+               <p n="2">2 Vnreaſonable creatures
+<list>
+                     <item>Imploied.</item>
+                     <item>Idle.</item>
+                  </list>
+               </p>
+               <p>Vnreaſonable creatures beeing imploied are a patterne to vs; the glaſe-worme ſpinneth ſilke, the ſpider weaueth a webbe, the bees till the flowers, the ant prouideth corne, and ſhall men refuſe paines to endeauour to liue.</p>
+               <p>Vnreaſonable creatures beeing idle, may make vs eſchew idle<g ref="char:EOLhyphen"/>nes: for the drone which liueth vpon the bees, the caterpiller that liueth on the fruit, and the boudes that liue on the malt, they are all by nature abhorred, and ſhall not men which neglect their la<g ref="char:EOLhyphen"/>bour to liue of others be much more odible.</p>
+               <p n="3">3 Reaſonable creatures
+<list>
+                     <item>Chriſtians.</item>
+                     <item>Heathens.</item>
+                  </list>
+               </p>
+               <p>All good Chriſtians are enſamples to vs of labour.</p>
+               <p>As for example
+<list>
+                     <item>
+                        <hi>Adam</hi> did dreſſe the garden.</item>
+                     <item>
+                        <hi>Noah</hi> did plant a vineyard.</item>
+                     <item>
+                        <hi>Dauid</hi> kept ſheepe.</item>
+                     <item>
+                        <hi>Paul</hi> laboured with his handes.</item>
+                  </list>
+               </p>
+               <pb n="37" facs="tcp:14275:23"/>
+               <p>If Patriarkes, Prophets, and Apoſtles doe labour, ſhall we liue idely: and if all men be enioyned to labour in ſome lawfull vocation, ſhall the poore refuſe to take paines which of all others <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aue neede to worke.</p>
+               <p>Heathens did euer beſt like a laborious life, and therefore So<g ref="char:EOLhyphen"/>lon ſaide, that ſuch as did deuoure and no way aduantage a com<g ref="char:EOLhyphen"/>mon-wealth, were not worthie to liue; <hi>non vivit qui nemini vivit,</hi> ſaith Seneca, he which liues not to doe himſelfe good liues not at all.</p>
+               <p>As by the ſtatute of Queene Marie none might begge openly but ſuch as did weare a badge, that they might be knowne to be beggers, anno. 2. &amp; 3. ſo by the lawes of the Romanes none might wander in the ſtreetes without a badge of their occupation, that it might appeare whereby they liued; ſo deteſtable an inconue<g ref="char:EOLhyphen"/>nience was Idlenes in all ages.</p>
+               <p n="4">4 Euery one ought to labour by the Lawes
+<list>
+                     <item>Diuine.</item>
+                     <item>Humane.</item>
+                  </list>
+               </p>
+               <p>By the Diuine law we ought to labour. As wine and drunken<g ref="char:EOLhyphen"/>neſſe began both in Noah; ſo ſin &amp; ſeruitude came both with A<g ref="char:EOLhyphen"/>dam: for he did no ſooner fall but this was impoſed as a puniſh<g ref="char:EOLhyphen"/>ment vpon him, <hi>In the ſweate of thy face ſhall thou get thy liuing.</hi>
+               </p>
+               <p>Therefore we muſt not looke to be fedde with a rauen like E<g ref="char:EOLhyphen"/>liiah, or to liue of the honie like the drone, or to liue of reliefe like the idle, but we muſt take paines, and lay to our helping hands, as well as ſay, <hi>Lord helpe vs.</hi>
+               </p>
+               <p>He that will not by labour releeue nature, is not by law worthy to haue to refreſh nature: therfore S. Paul ſaith, he that will not worke let him not eate.</p>
+               <p>Who would liue vpon almes that hath any thing of his owne, nay rather ſtriue of a little to giue ſomething, then hauing a little, to take any thing, conſidering what is written, <hi>It is a better thing to giue then to receiue.</hi>
+               </p>
+               <pb n="38" facs="tcp:14275:24"/>
+               <p>By <hi>Humane Lawes</hi> we ought to labour and not liue idlely, as ap<g ref="char:EOLhyphen"/>peares by our owne nationall Statutes: which be
+<list>
+                     <item>inſtant
+<list>
+                           <item>The laſt Statute prouideth a ſtocke to ſet the poore on worke, to the ende they might liue by labour. Eliz. 39.</item>
+                        </list>
+                     </item>
+                     <item>precedent
+<list>
+                           <item>The Statute of Edward the third did forbidde any to giue releefe to ſuch as were able to worke. Ed. 3. ann. 23.</item>
+                           <item>The Statute of king Henrie the 8. did appoint that theſe idle and ſturdie perſons ſhould be whipped and bound by oath to goe to the place they were borne. Hen. 8. ann. 22.</item>
+                           <item>The Statute of king Edward the 6. did prouide that theſe idle wanderers, in token of vagrancie ſhould be marked with the letter V. and the preſenters might take them for ſlaues, and feede them with bread and water. Ed. 6. cap. 3.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>Therefore ſeeing Idlenes is ſo condemned, by example of all creatures, by obſeruation of all ages, and by preſcription of all lawes, let euery one ſtriue to liue of his labour, and not vpon re<g ref="char:EOLhyphen"/>leefe, conſidering it is commanded by God, compelled by law, i<g ref="char:EOLhyphen"/>mitated of the godly, and commended of all good men.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:14275:24"/>
+         </div>
+      </back>
+   </text>
+</TEI>
